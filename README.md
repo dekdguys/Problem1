@@ -1,3 +1,3 @@
-bowling_kata
+Exam
 ============
-[ ![Codeship Status for gain9999/bowling_kata](https://codeship.io/projects/98422ad0-35ae-0132-af7d-4e5daa8e92bc/status)](https://codeship.io/projects/41157)
+[ ![Codeship Status for dekdguys/Problem1](https://codeship.com/projects/dbb76da0-5c24-0132-acea-0206f3c4d2b2/status)](https://codeship.com/projects/50703)
